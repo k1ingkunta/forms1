@@ -1,0 +1,1 @@
+Po włączeniu aplikacji kliknięciu przycisku generate załaduje sie unikalny kod nastepnie po wpisaniu go do textbox poniżej pokaze się okienko correct pin entered, jesli wpisze sie inny bedzie incorrect.
